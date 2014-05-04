@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Framework", "Farmland.Framework\Farmland.Framework.csproj", "{66AD4050-3E3F-4CAA-AF44-05986EFE9060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Framework.Tests", "Farmland.Framework.Tests\Farmland.Framework.Tests.csproj", "{E93A7812-F987-4463-981E-66651D115715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{E95B3AB0-AC00-4ED9-8002-B0301A66FD36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Data", "Farmland.Data\Farmland.Data.csproj", "{090BEB7D-4DCD-412F-8339-F2D52762B1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Service", "Farmland.Service\Farmland.Service.csproj", "{BCB1524B-2154-4CBF-8299-FC805A0C531C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Application", "Farmland.Application\Farmland.Application.csproj", "{8BE98FA3-DAAF-4C6F-931F-C0409A69F22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmland.Domain", "Farmland.Domain\Farmland.Domain.csproj", "{DCD45183-29F3-4498-AE0D-5E0BFC62A41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AD4050-3E3F-4CAA-AF44-05986EFE9060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD4050-3E3F-4CAA-AF44-05986EFE9060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD4050-3E3F-4CAA-AF44-05986EFE9060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD4050-3E3F-4CAA-AF44-05986EFE9060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93A7812-F987-4463-981E-66651D115715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93A7812-F987-4463-981E-66651D115715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93A7812-F987-4463-981E-66651D115715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93A7812-F987-4463-981E-66651D115715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E95B3AB0-AC00-4ED9-8002-B0301A66FD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95B3AB0-AC00-4ED9-8002-B0301A66FD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95B3AB0-AC00-4ED9-8002-B0301A66FD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95B3AB0-AC00-4ED9-8002-B0301A66FD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090BEB7D-4DCD-412F-8339-F2D52762B1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090BEB7D-4DCD-412F-8339-F2D52762B1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090BEB7D-4DCD-412F-8339-F2D52762B1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090BEB7D-4DCD-412F-8339-F2D52762B1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB1524B-2154-4CBF-8299-FC805A0C531C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB1524B-2154-4CBF-8299-FC805A0C531C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB1524B-2154-4CBF-8299-FC805A0C531C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB1524B-2154-4CBF-8299-FC805A0C531C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE98FA3-DAAF-4C6F-931F-C0409A69F22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE98FA3-DAAF-4C6F-931F-C0409A69F22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE98FA3-DAAF-4C6F-931F-C0409A69F22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE98FA3-DAAF-4C6F-931F-C0409A69F22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD45183-29F3-4498-AE0D-5E0BFC62A41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD45183-29F3-4498-AE0D-5E0BFC62A41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD45183-29F3-4498-AE0D-5E0BFC62A41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD45183-29F3-4498-AE0D-5E0BFC62A41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
